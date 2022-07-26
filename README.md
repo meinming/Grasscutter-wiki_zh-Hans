@@ -10,7 +10,7 @@
 - 因为本人水平较低，如果翻译有任何披露，欢迎提交[issues](https://github.com/meinming/Grasscutter-wiki_zh-Hans/issues))或者直接PR
 - ~~最后，愿风神保佑你，随风而来的旅行者~~
 
-##  [点我开始浏览](.//home.md)
+##  [点我开始浏览](https://github.com/meinming/Grasscutter-wiki_zh-Hans/wiki)
 
 ## To Do
 
