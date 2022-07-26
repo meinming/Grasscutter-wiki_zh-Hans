@@ -5,9 +5,10 @@
 **注意**：本项目为Grasscutter.wiki的汉化项目，对此内容有异议的请咨询原创作者
 
 - 本项目基于Grasscutter的wiki汉化而来，本项目意在帮助[Grasscutter](https://github.com/Grasscutters/Grasscutter)使用者更好地理解，使用这个开源项目。</br>
-- 本文为大部分由我翻译，部分由机翻校对后采用的。由于我对项目理解不深~~(有些东西我也没用过)~~，所以可能很粗糙，建议配合原wiki阅读.[带我去原wiki](https://github.com/Grasscutters/Grasscutter/wiki)
-- 本人为开学初三党，很忙，更新效率很低，所以可能会需要很长时间更完~~（你效率呢？你要知耻，知耻啊！）~~
-- 因为本人水平较低，如果翻译有任何披露，欢迎提交[issues](https://github.com/meinming/Grasscutter-wiki_zh-Hans/issues))或者直接PR
+- 本文为大部分由我翻译，部分由机翻校对后采用的。由于我对项目理解不深 ~有些东西我也没用过~，所以可能很粗糙，建议配合原wiki阅读.[带我去原wiki](https://github.com/Grasscutters/Grasscutter/wiki)
+- 部分语句我没太搞明白，保留了原句的部分。如果您有好的想法，请[issues](https://github.com/meinming/Grasscutter-wiki_zh-Hans/issues)我
+- 本人为开学初三党，很忙，更新效率很低，所以可能会需要很长时间更完 ~~你效率呢？你要知耻，知耻啊！~~
+- 因为本人水平较低，如果翻译有任何披露，欢迎提交[issues](https://github.com/meinming/Grasscutter-wiki_zh-Hans/issues)或者直接PR
 - ~~最后，愿风神保佑你，随风而来的旅行者~~
 
 ##  [点我开始浏览](https://github.com/meinming/Grasscutter-wiki_zh-Hans/wiki)
